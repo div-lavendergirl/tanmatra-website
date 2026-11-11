@@ -143,7 +143,7 @@ She is a published author of a book of poems.
 
       <section id="performances">
         <h2>Performances & Gallery</h2>
-        <a href="https://www.youtube.com/@divyaanand3444">
+        <a href="hhttps://www.youtube.com/@lakinya-tanmatra">
           Watch on YouTube
         </a>
         <br></br>
