@@ -43,7 +43,7 @@
         rgba(30, 15, 18, .85),
         rgba(30, 15, 18, .2)
       ),
-      url("images/dance.jpg") center 30% / cover no-repeat;
+      url("/tanmatra-website/images/dance.jpg") center/cover;
     color: white;
   }
   

@@ -39,32 +39,32 @@ function App() {
 
   <div className="gallery-grid">
     <div className="gallery-item">
-      <img src="/images/dance1.jpg" alt="Bharatanatyam performance" />
+      <img src={`${import.meta.env.BASE_URL}images/dance1.jpg`} alt="Bharatanatyam performance" />
       <div className="gallery-caption">Classical Performances</div>
     </div>
 
     <div className="gallery-item">
-      <img src="/images/dance2.jpg" alt="Bharatanatyam dancer" />
+      <img src={`${import.meta.env.BASE_URL}images/dance2.jpg`} alt="Bharatanatyam dancer" />
       <div className="gallery-caption">Expressions of Tradition</div>
     </div>
 
     <div className="gallery-item">
-      <img src="/images/dance3.jpg" alt="Dance students" />
+      <img src={`${import.meta.env.BASE_URL}images/dance3.jpg`} alt="Dance students" />
       <div className="gallery-caption">Learning & Growing</div>
     </div>
 
     <div className="gallery-item">
-      <img src="/images/dance4.jpg" alt="Dance workshop" />
+      <img src={`${import.meta.env.BASE_URL}images/dance4.jpg`} alt="Dance workshop" />
       <div className="gallery-caption">Workshops & Experiences</div>
     </div>
 
     <div className="gallery-item">
-      <img src="/images/dance8.jpg" alt="Classical dance mudra" />
+      <img src={`${import.meta.env.BASE_URL}images/dance8.jpg`} alt="Classical dance mudra" />
       <div className="gallery-caption">The Language of Mudras</div>
     </div>
 
     <div className="gallery-item">
-      <img src="/images/dance9.jpg" alt="Dance rehearsal" />
+      <img src={`${import.meta.env.BASE_URL}images/dance9.jpg`} alt="Dance rehearsal" />
       <div className="gallery-caption">Behind the Scenes</div>
     </div>
   </div>
